@@ -1,0 +1,21 @@
+[submodule "chuck-jokes"]
+	path = chuck-jokes
+	url = https://github.com/mbadaz/chuck-jokes
+[submodule "sharedPreferences-example-app"]
+	path = sharedPreferences-example-app
+	url = https://github.com/mbadaz/sharedPreferences-example-app
+[submodule "notifications-example-app"]
+	path = notifications-example-app
+	url = https://github.com/mbadaz/notifications-example-app
+[submodule "intents-example-app"]
+	path = intents-example-app
+	url = https://github.com/mbadaz/intents-example-app
+[submodule "recyclerview-example-app"]
+	path = recyclerview-example-app
+	url = https://github.com/mbadaz/recyclerview-example-app
+[submodule "layouts-exercise-app"]
+	path = layouts-exercise-app
+	url = https://github.com/mbadaz/layouts-exercise-app
+[submodule "navigation-patterns"]
+	path = navigation-patterns
+	url = https://github.com/mbadaz/navigation-patterns
